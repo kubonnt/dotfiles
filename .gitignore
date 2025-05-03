@@ -1,0 +1,19 @@
+# Ignore files
+baloofilerc
+.gsd-keyboard.settings-ported
+monitors.xml
+user-dirs.dirs
+user-dirs.locale
+
+# Ignore directories
+blender/
+Code/
+Code\ -\ OSS/
+Cursor/
+gnome-session/
+go/
+gtk-3.0/
+JetBrains/
+obs-studio/
+systemd/
+warp-terminal/
